@@ -3,7 +3,7 @@
 ## Project over view
 This report delves into the intricate details of Amazon's sales data, aiming to uncover trends, insights, and opportunities that can significantly impact strategic decision-making. By analyzing key metrics and performance indicators, aim to provide a comprehensive view of Amazon's sales dynamics, offering actionable insights for enhanced sales management strategies.
 
-link to jupyter notebook containig detailed analysis. [Link]()
+link to jupyter notebook containig detailed analysis. [Link](https://github.com/melizadsilva/Amazon_sales_analysis/blob/main/Amazon_sales.ipynb)
 
 ## Recommendations
 * **Expand Presence in the African Market:**  Given that the African region has the highest number of products bought, increase investment in marketing and distribution channels in this region. Consider localized promotions and partnerships with local influencers.
